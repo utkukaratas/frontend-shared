@@ -1,4 +1,5 @@
 node_modules
+!ci/lerna/node_modules
 *.log*
 *.tgz
 /packages/*/lib
