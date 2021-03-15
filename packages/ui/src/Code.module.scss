@@ -1,0 +1,9 @@
+@use '../styles/constants' as c;
+@use '../styles/helpers' as h;
+
+.container {
+  border: 1px solid red;
+  // .syntaxHighlighter {
+  //   margin: 0 !important; // reset default `pre` element margins
+  // }
+}
